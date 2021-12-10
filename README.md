@@ -1,5 +1,3 @@
-
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Rafeeq-99/AutoFilterBotV3?style=social)
 <img src="https://img.shields.io/github/forks/Rafeeq-99/AutoFilterBotV3?style=social"></img>
 ## How To Deploy Video
